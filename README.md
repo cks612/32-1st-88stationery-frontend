@@ -79,7 +79,6 @@
 - 배민문방구에서도 한 번 넘기면 캐러셀이 끝이라 넘길시 반대편 버튼을 나오게 구현했다
 
 ## 카테고리 별 sorting
-
 ![](https://blog.kakaocdn.net/dn/bOEEWy/btrATRU5kZC/a7WE845EvXeN5za98yacH1/img.gif)
 
 - 카테고리 별로 가격이 높은 순 / 낮은 순 / 신상품으로 sorting되는 기능을 구현했다
